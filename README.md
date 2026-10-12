@@ -30,10 +30,10 @@ A simple, clean todo app built with **React** and **Tailwind CSS**. Add, edit, d
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/saksham3123/itask-todo-app.git
 
 # Go into the project folder
-cd <your-repo-name>
+cd itask-todo-app
 
 # Install dependencies
 npm install
